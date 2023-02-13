@@ -1,0 +1,20 @@
+{
+  "name": "kahoot2",
+  "description": "kahoot 2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^2.0.20",
+    "socket.io": "0.9"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+ 
+  "homepage": ""
+}

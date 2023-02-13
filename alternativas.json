@@ -1,0 +1,85 @@
+{
+    "perguntas_e_alternativas": [
+      {
+        "pergunta": "Qual é a capital do Brasil?",
+        "alternativas": [
+          "Rio de Janeiro",
+          "São Paulo",
+          "Belo Horizonte",
+          "Brasília"
+        ],
+        "resposta_correta": "Brasília"
+      },
+      {
+        "pergunta": "Quem descobriu o Brasil?",
+        "alternativas": [
+          "Cristóvão Colombo",
+          "Vasco da Gama",
+          "Pedro Álvares Cabral",
+          "Henrique the Navigator"
+        ],
+        "resposta_correta": "Pedro Álvares Cabral"
+      },
+      {
+        "pergunta": "Quantos países tem na Europa?",
+        "alternativas": [
+          "15 países",
+          "24 países",
+          "28 países",
+          "31 países"
+        ],
+        "resposta_correta": "28 países"
+      },
+      {
+        "pergunta": "Qual é o planeta mais próximo do sol?",
+        "alternativas": [
+          "Marte",
+          "Terra",
+          "Júpiter",
+          "Mercúrio"
+        ],
+        "resposta_correta": "Mercúrio"
+      },
+      {
+        "pergunta": "Qual é a maior cidade do Brasil em população?",
+        "alternativas": [
+          "Rio de Janeiro",
+          "Belo Horizonte",
+          "São Paulo",
+          "Recife"
+        ],
+        "resposta_correta": "São Paulo"
+      },
+      {
+        "pergunta": "Qual é a estrela mais brilhante do céu noturno?",
+        "alternativas": [
+          "Vênus",
+          "Marte",
+          "Júpiter",
+          "Sirius"
+        ],
+        "resposta_correta": "Sirius"
+      },
+      {
+        "pergunta": "Quantas cores tem a bandeira do Brasil?",
+        "alternativas": [
+          "2 cores",
+          "3 cores",
+          "4 cores",
+          "5 cores"
+        ],
+        "resposta_correta": "3 cores"
+      },
+      {
+        "pergunta": "Qual é o maior país do mundo em área?",
+        "alternativas": [
+          "China",
+          "Rússia",
+          "Estados Unidos",
+          "Canadá"
+        ],
+        "resposta_correta": "Rússia"
+      }
+    ]
+}
+  
